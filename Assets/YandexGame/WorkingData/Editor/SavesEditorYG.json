@@ -1,0 +1,357 @@
+{
+    "idSave": 19,
+    "isFirstSession": false,
+    "language": "ru",
+    "promptDone": false,
+    "Resource": [
+        51,
+        42,
+        0,
+        0
+    ],
+    "LevelTrack": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+    ],
+    "TrackUP": [
+        3,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+    ],
+    "LevelHead": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+    ],
+    "HeadUP": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+    ],
+    "LevelGun": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+    ],
+    "GunUP": [
+        2,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+    ],
+    "ScienceScore": [
+        2,
+        0,
+        0
+    ],
+    "ScienceTrack": [
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+    ],
+    "ScienceHead": [
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+    ],
+    "ScienceGun": [
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+    ],
+    "ChapterDone": [
+        false,
+        false,
+        false,
+        false,
+        false
+    ],
+    "LevelGameStage": [
+        0,
+        0,
+        0,
+        0,
+        0
+    ],
+    "SaveLevelStage": [
+        0,
+        0,
+        0,
+        0,
+        0
+    ],
+    "LevelGameChoice": 0,
+    "Prem": 0,
+    "PremTime": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+    ],
+    "TanksPrem": [
+        false,
+        true,
+        true
+    ],
+    "TankDone": [
+        true,
+        false,
+        false,
+        false,
+        false
+    ],
+    "PremTanks": [
+        false,
+        false,
+        false,
+        false,
+        false
+    ],
+    "TrackTanks": [
+        0,
+        0,
+        0,
+        0,
+        0
+    ],
+    "HeaderTanks": [
+        0,
+        0,
+        0,
+        0,
+        0
+    ],
+    "MachineGunTanks": [
+        0,
+        0,
+        0,
+        0,
+        0
+    ],
+    "GunsTanks": [
+        0,
+        0,
+        0,
+        0,
+        0
+    ],
+    "LazerTanks": [
+        false,
+        false,
+        false,
+        false,
+        false
+    ],
+    "RocketTanks": [
+        false,
+        false,
+        false,
+        false,
+        false
+    ],
+    "Sheild": [
+        0,
+        0,
+        0,
+        0,
+        0
+    ],
+    "SizeTank": [
+        0,
+        0,
+        0,
+        0,
+        0
+    ],
+    "LifeTank": [
+        300,
+        0,
+        0,
+        0,
+        0
+    ],
+    "SpeedTank": [
+        1.5,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+    ],
+    "DamageGun": [
+        80,
+        0,
+        0,
+        0,
+        0
+    ],
+    "SlotBuy": [
+        true,
+        false,
+        false,
+        false,
+        false
+    ],
+    "TaskActive": true,
+    "AwardsDay": false,
+    "DayTaskTime": [
+        2024,
+        2,
+        14,
+        14,
+        4,
+        32
+    ],
+    "ActiveTask": [
+        true,
+        true,
+        false,
+        true,
+        true,
+        false,
+        false,
+        false
+    ],
+    "CollectAwards": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+    ],
+    "NeedPerform": [
+        0,
+        6,
+        7,
+        6,
+        8,
+        0,
+        0,
+        9
+    ],
+    "Perform": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+    ],
+    "AwardsTask": [
+        49,
+        9,
+        11,
+        33,
+        30,
+        0,
+        0,
+        15
+    ],
+    "DayActive": false,
+    "DayBonus": 0,
+    "TakeBonus": false,
+    "DayBonusTime": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+    ],
+    "LevelAchives": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+    ],
+    "ProgressAchives": [
+        2,
+        2,
+        4,
+        8,
+        0,
+        0
+    ],
+    "Trainer": [
+        true,
+        true
+    ],
+    "ActiveAudio": true,
+    "SaveActive1": true,
+    "OffAds": false,
+    "PremAll": false
+}

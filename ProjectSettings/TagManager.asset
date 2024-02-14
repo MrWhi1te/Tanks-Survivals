@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Bullet
+  - Bullet_Tank_0
+  - Bullet_Tank_1
+  - Bullet_Tank_2
+  - Rocket_Tank
+  - Lazer_Tank
+  - Plazm_Tank
+  - Scrap
+  - ScrapElectric
+  - Enemy
+  - Wall
+  - Enemy_Bullet_0
+  - Money
+  - Enemy_Tank_Bomber
+  - Enemy_Bullet
+  - PointTower
+  - PointJumper
+  - Health
+  - GunPart
+  - TrackPart
+  - HeadPart
+  - AimRocket
+  - EnemyRocket
+  - EnemyJumper
+  - Enemy_Bullet_1
+  - EnemyLazer
+  - Camera1
+  - Diamond
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
